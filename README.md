@@ -37,8 +37,7 @@
 ## 📌 Featured Projects
 
 - 🔹 [serge-chat/serge](https://github.com/serge-chat/serge): Powerful Alpaca web interface using FastAPI + SvelteKit  
-- 🔹 [UndefinifiedMiami](https://github.com/sergemuneza/UndefinifiedMiami): Experimental compiler for `.sc` scripts  
-- 🔹 [CungaCash](https://github.com/sergemuneza/cungacash): Smart personal finance tracker for Rwandans
+
 
 ---
 
