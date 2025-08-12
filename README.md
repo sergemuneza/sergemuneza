@@ -37,7 +37,7 @@
 
 ## 📌 Featured Projects
 
-- 🔹 [ExpenseTrackApp](https://github.com/sergemuneza/ExpenseTrackApp)  
+- 🔹 [CungaCash](https://github.com/sergemuneza/CungaCash)  
   A Flutter mobile app for tracking personal expenses, income, and savings with intuitive UI and data visualization.
 
 - 🔹 [Banka-api-Pro](https://github.com/sergemuneza/Banka-api-Pro)  
