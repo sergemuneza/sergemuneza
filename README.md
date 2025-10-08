@@ -49,8 +49,8 @@
 - 🔹 [Sendit - Secure Parcel Delivery API](https://github.com/sergemuneza/Sendit--Secure-Parcel-Delivery-API)  
   Secure and reliable parcel delivery backend API with user authentication, order tracking, and delivery management.
 
-- 🔹 [Mobile App DeskHelp (Flutter)](https://github.com/sergemuneza/Mobile-App-DeskHelp_Flutter)  
-  Flutter app for IT support ticket management, allowing users to create, track, and update support tickets on mobile.
+- 🔹 [Way-Farer Mobile and Web App ](https://github.com/sergemuneza/Way-Farer)  
+  App which helps in ticket management, allowing users to create, track, and update support tickets on mobile.
 
 - 🔹 [E-Commerce Web](https://github.com/sergemuneza/E-Commerce-Web)  
   Full-stack e-commerce website with product browsing, cart management, and checkout functionality.
