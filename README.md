@@ -88,9 +88,11 @@
 
 ## 📫 Connect With Me
 
-📧 **Email**: sergemuneza07@gmail.com  
-🌐 **Portfolio**: [sergemuneza.github.io](https://sergemuneza.pages.dev/)
-🔗 **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/sergemuneza)
+- 📧 **Email:** [sergemuneza07@gmail.com](mailto:sergemuneza07@gmail.com)
+- 🌐 **Portfolio:** [sergemuneza.pages.dev](https://sergemuneza.pages.dev)
+- 💼 **LinkedIn:** [linkedin.com/in/sergemuneza](https://www.linkedin.com/in/sergemuneza)
+- 💻 **GitHub:** [github.com/sergemuneza](https://github.com/sergemuneza)
+
 
 ---
 
